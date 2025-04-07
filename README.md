@@ -5,9 +5,12 @@
 This repository provides Jupyter notebooks demonstrating the fine-tuning of various language models using Parameter-Efficient Fine-Tuning (PEFT) techniques. The models fine-tuned include:
 
 - **Llama 3.2B**: A 3.2 billion parameter model from the Llama series.
-- **Llama 3 8B**: An 8 billion parameter model from the Llama series.
+- **Llama 3 8B**: A 8 billion parameter model from the Llama series.
 - **Bloom-560m**: A 560 million parameter model from the Bloom series.
 - **DeepSeek-R1-Distill-Llama-8B**: An 8 billion parameter distilled version of the DeepSeek-R1 model.
+- **Phi 2**: A 2.7 billion parameter model from the Microsoft's Phi series.
+- **GPT 2**: A 1.5 billion parameter model from the OpenAI's GPT series.
+
 
 ## Notebooks
 
@@ -17,6 +20,8 @@ Each notebook focuses on fine-tuning a specific model:
 - `Fine_tuning_Llama3_8B.ipynb`: Fine-tuning the Llama 3 8B model.
 - `Fine_tuning_bloom-560m.ipynb`: Fine-tuning the Bloom-560m model.
 - `Fine-tuning-DeepSeek-R1-Distill-Llama-8B.ipynb`: Fine-tuning the DeepSeek-R1-Distill-Llama-8B model.​
+- `Fine-tuning-Phi-2.ipynb`: Fine-tuning the Phi 2 model.​
+- `Fine-tuning-GPT-2.ipynb`: Fine-tuning the GPT 2 model.​
 
 
 ## Prerequisites
